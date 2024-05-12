@@ -1,3 +1,3 @@
 # Demo_repo
-This is my first readmi
+This is my Git Repository.
 Author: Kamalpratapsingh
